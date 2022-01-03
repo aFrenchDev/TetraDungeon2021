@@ -1,0 +1,51 @@
+{
+  "textureAtlas": {
+    "texture": "EsquireSprite.png",
+    "regionWidth": 30,
+    "regionHeight": 30
+  },
+  "cycles": {
+    "idle": {
+      "frames": [0,3,1]
+    },
+    "walk": {
+      "frames": [6,7,8,9,10,11,12]
+    },
+    "sprint": {
+      "frames": [13,14,15,16,17,18,19]
+    },
+    "kick": {
+      "frames": [21]
+    },
+    "sword": {
+      "frames": [22,23,24]
+    },
+    "shield": {
+      "frames": [26]
+    },
+    "idleF": {
+      "frames": [27,28,30]
+    },
+    "walkF": {
+      "frames": [33,34,35,36,37,38,39]
+    },
+    "sprintF": {
+      "frames": [40,41,42,43,44,45,46]
+    },
+    "kickF": {
+      "frames": [48]
+    },
+    "swordF": {
+      "frames": [49,50,51]
+    },
+    "shieldF": {
+      "frames": [52,53]
+    },
+    "dead": {
+      "frames": [4]
+    },
+    "deadF": {
+      "frames": [31]
+    }
+  }
+}
